@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bizhello/SpaceX/static/css/main.f2b3c1b7.css",
-    "main.js": "/bizhello/SpaceX/static/js/main.7ef5871b.js",
-    "static/js/787.4f608640.chunk.js": "/bizhello/SpaceX/static/js/787.4f608640.chunk.js",
-    "static/media/background.png": "/bizhello/SpaceX/static/media/background.ca92a96c01943a077088.png",
-    "static/media/Inter-Medium.woff?": "/bizhello/SpaceX/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff?": "/bizhello/SpaceX/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff?": "/bizhello/SpaceX/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/bizhello/SpaceX/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/bizhello/SpaceX/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/bizhello/SpaceX/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/logo.png": "/bizhello/SpaceX/static/media/logo.53da1bdc51c2e5b438ac.png",
-    "index.html": "/bizhello/SpaceX/index.html",
-    "static/media/close.svg": "/bizhello/SpaceX/static/media/close.5270bfc08698c41e05d1.svg",
-    "static/media/burger.svg": "/bizhello/SpaceX/static/media/burger.111cfc3a3545a9ff785c.svg",
-    "main.f2b3c1b7.css.map": "/bizhello/SpaceX/static/css/main.f2b3c1b7.css.map",
-    "main.7ef5871b.js.map": "/bizhello/SpaceX/static/js/main.7ef5871b.js.map",
-    "787.4f608640.chunk.js.map": "/bizhello/SpaceX/static/js/787.4f608640.chunk.js.map"
+    "main.css": "/SpaceX/static/css/main.c98bcbdb.css",
+    "main.js": "/SpaceX/static/js/main.e7652959.js",
+    "static/js/787.4f608640.chunk.js": "/SpaceX/static/js/787.4f608640.chunk.js",
+    "static/media/background.png": "/SpaceX/static/media/background.ca92a96c01943a077088.png",
+    "static/media/Inter-Medium.woff?": "/SpaceX/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff?": "/SpaceX/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?": "/SpaceX/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/SpaceX/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/SpaceX/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/SpaceX/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.png": "/SpaceX/static/media/logo.53da1bdc51c2e5b438ac.png",
+    "index.html": "/SpaceX/index.html",
+    "static/media/close.svg": "/SpaceX/static/media/close.5270bfc08698c41e05d1.svg",
+    "static/media/burger.svg": "/SpaceX/static/media/burger.111cfc3a3545a9ff785c.svg",
+    "main.c98bcbdb.css.map": "/SpaceX/static/css/main.c98bcbdb.css.map",
+    "main.e7652959.js.map": "/SpaceX/static/js/main.e7652959.js.map",
+    "787.4f608640.chunk.js.map": "/SpaceX/static/js/787.4f608640.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b3c1b7.css",
-    "static/js/main.7ef5871b.js"
+    "static/css/main.c98bcbdb.css",
+    "static/js/main.e7652959.js"
   ]
 }
